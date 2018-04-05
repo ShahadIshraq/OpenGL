@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522963838 source:/home/shahad/Desktop/OpenGL/glTest/OpenGL_CodeBlocks/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<glut.h>
+
+1392007564 /home/shahad/Desktop/OpenGL/glTest/OpenGL_CodeBlocks/OpenGL/include/glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
